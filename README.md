@@ -8,6 +8,8 @@ Relationship [Mother -Son, Mother- Daughter, Father - Son, Father- Daughter] bet
 idea, containing faces of couples who are together in real life. We implemented Siamese networks to do this task. We achieved better performance scores with ConvNets
 compared to shallow learning techniques
 
+Please look at the report Relationship_verification_siamese.pdf for more details
+
 ### Images from KinFaceW II
 <img src="https://cloud.githubusercontent.com/assets/5204400/19833880/03d994c4-9e20-11e6-998d-5cfba181a486.png" alt="alt text" width="500" height="500">
 
