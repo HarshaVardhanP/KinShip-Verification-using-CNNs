@@ -10,6 +10,7 @@ compared to shallow learning techniques
 
 ![ks1](https://cloud.githubusercontent.com/assets/5204400/19833880/03d994c4-9e20-11e6-998d-5cfba181a486.png)
 img[alt=ks1] { width: 200px; }
+<img src="https://cloud.githubusercontent.com/assets/5204400/19833880/03d994c4-9e20-11e6-998d-5cfba181a486.png" alt="alt text" width="100" height="100">
 ![ks2](https://cloud.githubusercontent.com/assets/5204400/19833882/03dc59b6-9e20-11e6-8be8-5bfc7549716d.png)
 ![ks3](https://cloud.githubusercontent.com/assets/5204400/19833877/03d7d15c-9e20-11e6-94d7-f87f38fdb4e1.png)
 ![ks4](https://cloud.githubusercontent.com/assets/5204400/19833881/03d9d57e-9e20-11e6-8ab8-64c91a332fc9.png)
